@@ -1,10 +1,16 @@
 # Llama Parse Dotnet example
 
-1. Setup your API Key on the headers generating it on `https://cloud.llamaindex.ai/`
+1. Install the dependencies
 
-2. Change the `file.pdf` to the file you want to parse
+```bash
+dotnet add package RestSharp
+````
 
-3. Run the code
+2. Setup your API Key on the headers generating it on `https://cloud.llamaindex.ai/`
+
+3. Change the `file.pdf` to the file you want to parse
+
+4. Run the code
 
 ```bash
 dotnet run
