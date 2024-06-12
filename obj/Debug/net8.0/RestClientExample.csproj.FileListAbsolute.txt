@@ -1,0 +1,17 @@
+/Users/emanuel/Desktop/programming/RestClientExample/obj/Debug/net8.0/RestClientExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emanuel/Desktop/programming/RestClientExample/obj/Debug/net8.0/RestClientExample.AssemblyInfoInputs.cache
+/Users/emanuel/Desktop/programming/RestClientExample/obj/Debug/net8.0/RestClientExample.AssemblyInfo.cs
+/Users/emanuel/Desktop/programming/RestClientExample/obj/Debug/net8.0/RestClientExample.csproj.CoreCompileInputs.cache
+/Users/emanuel/Desktop/programming/RestClientExample/bin/Debug/net8.0/RestClientExample
+/Users/emanuel/Desktop/programming/RestClientExample/bin/Debug/net8.0/RestClientExample.deps.json
+/Users/emanuel/Desktop/programming/RestClientExample/bin/Debug/net8.0/RestClientExample.runtimeconfig.json
+/Users/emanuel/Desktop/programming/RestClientExample/bin/Debug/net8.0/RestClientExample.dll
+/Users/emanuel/Desktop/programming/RestClientExample/bin/Debug/net8.0/RestClientExample.pdb
+/Users/emanuel/Desktop/programming/RestClientExample/bin/Debug/net8.0/RestSharp.dll
+/Users/emanuel/Desktop/programming/RestClientExample/obj/Debug/net8.0/RestClientExample.csproj.AssemblyReference.cache
+/Users/emanuel/Desktop/programming/RestClientExample/obj/Debug/net8.0/RestClie.276D11E3.Up2Date
+/Users/emanuel/Desktop/programming/RestClientExample/obj/Debug/net8.0/RestClientExample.dll
+/Users/emanuel/Desktop/programming/RestClientExample/obj/Debug/net8.0/refint/RestClientExample.dll
+/Users/emanuel/Desktop/programming/RestClientExample/obj/Debug/net8.0/RestClientExample.pdb
+/Users/emanuel/Desktop/programming/RestClientExample/obj/Debug/net8.0/RestClientExample.genruntimeconfig.cache
+/Users/emanuel/Desktop/programming/RestClientExample/obj/Debug/net8.0/ref/RestClientExample.dll
